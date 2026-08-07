@@ -95,7 +95,7 @@ while True:
     print("\n.....")
     
 
-    choice = input("enter your choice from ( 1 to 6)..: ")
+    choice = input("enter your choice from ( 1 to 7)..: ")
 
     try:
         if choice == "1":
