@@ -43,6 +43,7 @@ class Expance:
             print(f"description : {expenses['description']}")
             print(f"date : {expenses['date']}")            
 
+
     def total_expance(self):
         total = 0
         print('\n--- Total expenses is,,,')
