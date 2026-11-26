@@ -12,6 +12,7 @@ class Expance:
             self.expenses = []
 
 
+
     def save_expense(self):
         with open("expenses.json","w") as file:
             json.dump(self.expenses,file,indent=4)
