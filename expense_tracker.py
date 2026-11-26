@@ -2,6 +2,7 @@ from datetime import date
 import json
 import os
 
+
 class Expance:
     def __init__(self):
         if os.path.exists("expenses.json"):
