@@ -95,8 +95,6 @@ while True:
     print("6.To delete Your expenses")
     print("7.To Exist")
     print("\n.....")
-    
-
 
 
     choice = input("enter your choice from ( 1 to 7)..: ")
